@@ -33,7 +33,7 @@
 * [APOLLO DATA GRAPH PLATFORM](https://www.apollographql.com/platform/) to build, manage, and access the data graph
 * [Lighthouse](https://lighthouse-php.com/) graphQL server for Laravel
 * [SQLite3](https://www.sqlite.org/index.html) C-language library implementing SQL database engine
-* [PHP for Windows v](https://windows.php.net/)
+* [PHP for Windows](https://windows.php.net/)
 * [Composer v1](https://getcomposer.org/) dependency manager for PHP
 
 ## :signal_strength: Technologies - Frontend
