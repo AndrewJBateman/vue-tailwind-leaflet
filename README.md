@@ -1,20 +1,27 @@
-# :zap: view-grapghql-laravel
+# :zap: Vue Tailwind Leaflet
 
-* A full-stack app using graphql, Laravel and Vue with Apollo.
-* The frontend shows a book library but this will be updated to show other data.
+* A Vue3 app with Tailwind styles to display a Leaflet map
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-**Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/vue-tailwind-leaflet?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/vue-tailwind-leaflet?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/vue-tailwind-leaflet?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/vue-tailwind-leaflet?style=plastic)
 
 ## :page_facing_up: Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [:zap: Vue Tailwind Leaflet](#zap-vue-tailwind-leaflet)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:computer: Code Examples](#computer-code-examples)
+  * [:cool: Features](#cool-features)
+  * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
+  * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
 
@@ -24,41 +31,18 @@
 ## :camera: Screenshots
 
 ![frontend image](./img/frontend.png)
-![backend image](./img/backend.png)
 
-## :signal_strength: Technologies - Backend
+## :signal_strength: Technologies
 
-* [Postman app](https://www.postman.com/) used as API client to send REST and GraphQL requests directly
-* [GitHub GraphQL API](https://developer.github.com/v4/explorer/)
-* [APOLLO DATA GRAPH PLATFORM](https://www.apollographql.com/platform/) to build, manage, and access the data graph
-* [Lighthouse](https://lighthouse-php.com/) graphQL server for Laravel
-* [SQLite3](https://www.sqlite.org/index.html) C-language library implementing SQL database engine
-* [PHP for Windows](https://windows.php.net/)
-* [Composer v1](https://getcomposer.org/) dependency manager for PHP
-
-## :signal_strength: Technologies - Frontend
-
-* [Vue v2](https://vuejs.org/)
+* [Vue v3](https://vuejs.org/)
 * [Vuex v3](https://vuex.vuejs.org/) state management
 * [Vue.js devtools chrome extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 
-## :floppy_disk: Setup - Backend
+## :floppy_disk: Setup
 
-* In the `server` directory install dependencies using "npm install", then run using "nodemon index.js"
+* Install dependencies using "npm install", then run using "npm run serve"
 
-## :floppy_disk: Setup - Frontend
-
-* In the `vue-apollo frontend` directory install dependencies using "npm install", then run using "npm run serve"
-
-## :computer: Code Examples - Backend
-
-* extract from
-
-```javascript
-
-```
-
-## :computer: Code Examples - Frontend
+## :computer: Code Examples
 
 * extract from
 
@@ -68,21 +52,21 @@
 
 ## :cool: Features
 
-* [Vuex](https://vuex.vuejs.org/) state management used as a central store for all components. Mutations used to commit and track changes
+* tba
 
 ## :clipboard: Status & To-Do List
 
-* Status: In progress
-* To-Do: Complete
+* Status: Working
+* To-Do: Add Tailwind components
 
 ## :clap: Inspiration
 
-* [freeCodeCamp.org: Youtube video: Learn GraphQL with Laravel and Vue.js - Full Tutorial](https://www.youtube.com/watch?v=4z3EMCc4bP4)
 * [Vue CLI 3 - Creating our Project](https://www.vuemastery.com/courses/real-world-vue-js/vue-cli/)
-* [How To Install SQLite3 In Windows 10](https://www.youtube.com/watch?v=XA3w8tQnYCA)
-* [How to install php 7 on Windows 10](https://www.youtube.com/watch?v=4_-12QSaaFg)
-* [How to Install Composer on Windows 10](https://www.wdb24.com/how-to-install-composer-on-windows-10/)
+
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
 
 ## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
